@@ -13,6 +13,6 @@ PHP Laravel and VueJS with TypeScript.
   chato is a chat web-app built with TypeScript, NodeJS, ExpressJS and
   Socket.io. I am re-building it with PHP Laravel and VueJS with TypeScript.
 
-- [front-end-layouts](https://github.com/moccot/front-end-layout/)
+- [front-end-layouts](https://github.com/moccot/front-end-layouts/)
   
   A repository where I store front-end layouts I make.
