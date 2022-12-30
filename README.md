@@ -1,12 +1,12 @@
 **Languages:** Portuguese BR (main) and english.
 
-##### Skills
+## Skills
 HTML, CSS, JavaScript  and NodeJS.
 
-##### Currently learning
+## Currently learning
 PHP Laravel and VueJS with TypeScript.
 
-##### Main repositories
+## Main repositories
 - [better-chato](https://github.com/moccot/better-chato/)
   
   An improved version of [chato](https://github.com/moccot/chato/).
