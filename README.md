@@ -5,7 +5,7 @@
 ## Skills
 HTML, CSS, JavaScript  and NodeJS.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moccot&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moccot&layout=compact&langs_count=10&hide=shell,blade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently learning
 PHP Laravel and VueJS with TypeScript.
