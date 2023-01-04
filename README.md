@@ -1,18 +1,16 @@
+[![Tarcísio's Stats](https://github-readme-stats.vercel.app/api?username=moccot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 **Languages:** Portuguese BR (main) and english.
 
 ## Skills
 HTML, CSS, JavaScript  and NodeJS.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moccot&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Currently learning
 PHP Laravel and VueJS with TypeScript.
 
 ## Main repositories
-- [better-chato](https://github.com/moccot/better-chato/)
-  
-  An improved version of [chato](https://github.com/moccot/chato/).
-  chato is a chat web-app built with TypeScript, NodeJS, ExpressJS and
-  Socket.io. I am re-building it with PHP Laravel and VueJS with TypeScript.
+[![Better Chato](https://github-readme-stats.vercel.app/api/pin/?username=moccot&repo=better-chato&theme=dark)](https://github.com/moccot/better-chato)
 
-- [front-end-layouts](https://github.com/moccot/front-end-layouts/)
-  
-  A repository where I store front-end layouts I make.
+[![Front End Layouts](https://github-readme-stats.vercel.app/api/pin/?username=moccot&repo=front-end-layouts&theme=dark)](https://github.com/moccot/front-end-layouts)
