@@ -15,4 +15,4 @@ NestJS and TypeScript.
 
 [![Front End Layouts](https://github-readme-stats.vercel.app/api/pin/?username=moccot&repo=front-end-layouts&theme=dark)](https://github.com/moccot/front-end-layouts)
 
-[![Todo API](https://github-readme-stats.vercel.app/api/pin/?username=moccot&repo=front-end-layouts&theme=dark)(https://github.com/moccot/todo-api)
+[![Todo API](https://github-readme-stats.vercel.app/api/pin/?username=moccot&repo=front-end-layouts&theme=dark)](https://github.com/moccot/todo-api)
