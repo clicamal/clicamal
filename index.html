@@ -47,6 +47,20 @@
             }
         }
     </style>
+
+    <script>
+        onload = () => {
+            let audioEasterEgg = new Audio("https://www.myinstants.com/media/sounds/coca-cola-light-normal-remix.mp3");
+
+            document.addEventListener("keydown", event => {
+                if (event.ctrlKey && event.key == "m")
+                    if (audioEasterEgg.paused)
+                        audioEasterEgg.play();
+                    else
+                        audioEasterEgg.pause();
+            });
+        }
+    </script>
 </head>
 <body>
     <main id="page-main-content" class="z-1 position-absolute top-0 start-0 w-100 vh-100 p-md-5 p-3">
