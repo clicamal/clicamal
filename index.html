@@ -50,15 +50,16 @@
 
     <script>
         onload = () => {
-            let audioEasterEgg = new Audio("https://www.myinstants.com/media/sounds/coca-cola-light-normal-remix.mp3");
-
-            document.addEventListener("keydown", event => {
-                if (event.ctrlKey && event.key == "m")
-                    if (audioEasterEgg.paused)
-                        audioEasterEgg.play();
-                    else
-                        audioEasterEgg.pause();
-            });
+            (new Audio("https://www.myinstants.com/media/sounds/coca-cola-light-normal-remix.mp3"))
+                .addEventListener("canplay", function() {
+                    document.addEventListener("keydown", event => {
+                        if (event.ctrlKey && event.key == "m")
+                            if (this.paused)
+                                this.play();
+                            else
+                                this.pause();
+                    });
+                });
         }
     </script>
 </head>
