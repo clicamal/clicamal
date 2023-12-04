@@ -26,5 +26,6 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 ## Agradecimentos
 Gostaria de expressar minha sincera gratidão aos meus pais, cujo apoio e orientação foram fundamentais para pavimentar o meu caminho inicial em direção ao sucesso. Agradeço também a todos os professores que, com dedicação e expertise, foram além do senso comum ao me ensinarem. Além disso, agradeço a todas as outras pessoas que, direta ou indiretamente, estiveram ao meu lado ao longo da minha jornada, pois cada uma delas desempenhou um papel importante no meu crescimento e desenvolvimento pessoal. Obrigado a todos por fazerem parte da minha trajetória.
 
-### Para citar uma
-- [Maurício Severo](https://github.com/mauricioss777), um grande sábio, detentor do conhecimento antigo de PHP, um grande amigo.
+### Para citar algumas
+- [Maurício Severo](https://github.com/mauricioss777), um grande amigo.
+- [Álex Allan](https://github.com/BloopersNF), parceiro de estudos na graduação de Engenharia da Computação na Universidade Federal de Mato Grosso.
