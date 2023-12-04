@@ -1,4 +1,5 @@
-# Tarcísio J. S. Rodrigues (clicamal), o feiticeiro.
+![Header](./profile-header.png)
+
 Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web, sou um estudante ávido de programação que busca dominar a arte de comandar máquinas. Atualmente, estou cursando Engenharia de Computação na Universidade Federal de Mato Grosso, onde busco aprimorar meus conhecimentos e habilidades técnicas. Este repositório no GitHub é um reflexo do meu aprendizado e das minhas experiências, onde compartilho projetos, códigos e aprendizados. Sinta-se à vontade para explorar e contribuir. Juntos, podemos avançar no universo da tecnologia e da programação.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
