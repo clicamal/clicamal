@@ -22,7 +22,7 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicamal&show_icons=true&theme=transparent&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicamal&hide_progress=true&layout=compact&theme=transparent&hide=blade)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicamal&hide_progress=true&layout=compact&theme=transparent&hide=blade&locale=pt-br)
 
 ## Agradecimentos
 Gostaria de expressar minha sincera gratidão aos meus pais, cujo apoio e orientação foram fundamentais para pavimentar o meu caminho inicial em direção ao sucesso. Agradeço também a todos os professores que, com dedicação e expertise, foram além do senso comum ao me ensinarem. Além disso, agradeço a todas as outras pessoas que, direta ou indiretamente, estiveram ao meu lado ao longo da minha jornada, pois cada uma delas desempenhou um papel importante no meu crescimento e desenvolvimento pessoal. Obrigado a todos por fazerem parte da minha trajetória.
