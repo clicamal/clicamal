@@ -20,9 +20,9 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicamal&show_icons=true&theme=transparent&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicamal&show_icons=true&theme=transparent&locale=pt-br&bg_color=3b1212&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicamal&hide_progress=true&layout=compact&theme=transparent&hide=blade&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicamal&hide_progress=true&layout=compact&theme=transparent&hide=blade&locale=pt-br&bg_color=3b1212&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
 
 ## Agradecimentos
 Gostaria de expressar minha sincera gratidão aos meus pais, cujo apoio e orientação foram fundamentais para pavimentar o meu caminho inicial em direção ao sucesso. Agradeço também a todos os professores que, com dedicação e expertise, foram além do senso comum ao me ensinarem. Além disso, agradeço a todas as outras pessoas que, direta ou indiretamente, estiveram ao meu lado ao longo da minha jornada, pois cada uma delas desempenhou um papel importante no meu crescimento e desenvolvimento pessoal. Obrigado a todos por fazerem parte da minha trajetória.
