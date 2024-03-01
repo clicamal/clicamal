@@ -18,7 +18,6 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicamal&show_icons=true&theme=transparent&locale=pt-br&bg_color=3b1212&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
 
