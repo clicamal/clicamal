@@ -1,6 +1,16 @@
 ![Header](./profile-header.png)
 
-Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web, sou um estudante ávido de programação que busca dominar a arte de comandar máquinas. Atualmente, estou cursando Engenharia de Computação na Universidade Federal de Mato Grosso, onde busco aprimorar meus conhecimentos e habilidades técnicas. Este repositório no GitHub é um reflexo do meu aprendizado e das minhas experiências, onde compartilho projetos, códigos e aprendizados. Sinta-se à vontade para explorar e contribuir. Juntos, podemos avançar no universo da tecnologia e da programação.
+🧙‍♂️ O Grimório do Feiticeiro da Computação
+
+Saudações, aventureiro do código! Eu sou um Feiticeiro nas artes digitais, moldando o fluxo arcano das máquinas com o poder da ciência dos bits e bytes.
+
+Com minha varinha (também conhecida como teclado) e grimórios de feitiços (códigos e scripts), invoco encantamentos em diversas linguagens de programação, sem me prender a nenhuma em particular. Minha magia vem da compreensão profunda do que está por trás das palavras e símbolos—não sou um seguidor fiel de uma só escola de magia (ou linguagem), mas um Feiticeiro que busca o conhecimento onde quer que ele se manifeste.
+
+Durante minha jornada pela Engenharia da Computação, lanço meus feitiços sobre arquiteturas, redes místicas (ou, como alguns chamam, redes de computadores) e encantamentos de software que transformam ideias em realidade.
+
+Neste grimório, você encontrará artefatos e pergaminhos que registram minhas aventuras e projetos, todos guiados pela lógica, pela criatividade e pela busca constante por novos feitiços.
+
+Seja bem-vindo(a) a este repositório, onde a magia e a ciência se fundem de forma surpreendente!
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
@@ -12,9 +22,7 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C/C++](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -22,10 +30,3 @@ Entusiasta da feitiçaria do JavaScript e praticante da magia dos servidores web
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicamal&show_icons=true&theme=transparent&locale=pt-br&bg_color=3b1212&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clicamal&hide_progress=true&layout=compact&theme=transparent&hide=blade&locale=pt-br&bg_color=3b1212&title_color=ffffff&text_color=ffffff&icon_color=ff0000)
-
-## Agradecimentos
-Gostaria de expressar minha sincera gratidão aos meus pais, cujo apoio e orientação foram fundamentais para pavimentar o meu caminho inicial em direção ao sucesso. Agradeço também a todos os professores que, com dedicação e expertise, foram além do senso comum ao me ensinarem. Além disso, agradeço a todas as outras pessoas que, direta ou indiretamente, estiveram ao meu lado ao longo da minha jornada, pois cada uma delas desempenhou um papel importante no meu crescimento e desenvolvimento pessoal. Obrigado a todos por fazerem parte da minha trajetória.
-
-### Para citar algumas
-- [Maurício Severo](https://github.com/mauricioss777), um grande amigo.
-- [Álex Allan](https://github.com/BloopersNF), parceiro de estudos na graduação de Engenharia da Computação na Universidade Federal de Mato Grosso.
