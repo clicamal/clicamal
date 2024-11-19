@@ -1,4 +1,4 @@
-![Header](./profile-header.png)
+![Header](./profile-header.jpeg)
 
 🧙‍♂️ O Grimório do Feiticeiro da Computação
 
