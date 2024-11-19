@@ -4,7 +4,7 @@
 
 Saudações, viajante do código! Eu sou um Mago das artes digitais, tecendo feitiços com o poder ancestral dos bits e bytes.
 
-Com minha varinha (também conhecida como teclado) e meus grimórios (códigos e scripts), invoco encantamentos em diversas linguagens de programação. Não sigo um único caminho ou escola de magia, pois a verdadeira sabedoria está em dominar todos os aspectos do arcano—seja em Python, JavaScript, C++ ou qualquer outro feitiço que o destino me desafie a aprender.
+Com minha varinha (também conhecida como teclado) e meus grimórios (códigos e scripts), invoco encantamentos em diversas linguagens de programação. Não sigo um único caminho ou escola de magia, pois a verdadeira sabedoria está em dominar todos os aspectos do arcano — seja em Python, JavaScript, C++ ou qualquer outro feitiço que o destino me desafie a aprender.
 
 Em minha jornada pela Engenharia da Computação, exploro redes místicas, arquiteturas misteriosas e magias de software que trazem vida a ideias imortais.
 
