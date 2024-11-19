@@ -1,16 +1,16 @@
 ![Header](./profile-header.jpeg)
 
-🧙‍♂️ O Grimório do Feiticeiro da Computação
+🧙‍♂️ O Grimório do Mago da Computação
 
-Saudações, aventureiro do código! Eu sou um Feiticeiro nas artes digitais, moldando o fluxo arcano das máquinas com o poder da ciência dos bits e bytes.
+Saudações, viajante do código! Eu sou um Mago das artes digitais, tecendo feitiços com o poder ancestral dos bits e bytes.
 
-Com minha varinha (também conhecida como teclado) e grimórios de feitiços (códigos e scripts), invoco encantamentos em diversas linguagens de programação, sem me prender a nenhuma em particular. Minha magia vem da compreensão profunda do que está por trás das palavras e símbolos—não sou um seguidor fiel de uma só escola de magia (ou linguagem), mas um Feiticeiro que busca o conhecimento onde quer que ele se manifeste.
+Com minha varinha (também conhecida como teclado) e meus grimórios (códigos e scripts), invoco encantamentos em diversas linguagens de programação. Não sigo um único caminho ou escola de magia, pois a verdadeira sabedoria está em dominar todos os aspectos do arcano—seja em Python, JavaScript, C++ ou qualquer outro feitiço que o destino me desafie a aprender.
 
-Durante minha jornada pela Engenharia da Computação, lanço meus feitiços sobre arquiteturas, redes místicas (ou, como alguns chamam, redes de computadores) e encantamentos de software que transformam ideias em realidade.
+Em minha jornada pela Engenharia da Computação, exploro redes místicas, arquiteturas misteriosas e magias de software que trazem vida a ideias imortais.
 
-Neste grimório, você encontrará artefatos e pergaminhos que registram minhas aventuras e projetos, todos guiados pela lógica, pela criatividade e pela busca constante por novos feitiços.
+Este grimório contém os registros de minhas explorações arcanas. Que a lógica, a criatividade e o mistério guiem suas descobertas aqui.
 
-Seja bem-vindo(a) a este repositório, onde a magia e a ciência se fundem de forma surpreendente!
+Seja bem-vindo(a) ao meu repositório, onde a magia do código se mistura com os segredos do universo.
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
