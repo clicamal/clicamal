@@ -33,20 +33,6 @@ Tenho interesse em desenvolvimento de software, sistemas web, automação e inte
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0095D5?style=for-the-badge)
 
-## 📌 Projetos em Destaque
-
-### 💬 Chato Reborn
-Sistema de chat em tempo real utilizando **PHP, MySQL, Node.js e WebSocket**, focado em comunicação por salas sem uso de frameworks.
-
-### 🤖 Shopa ESP32
-Sistema embarcado com **ESP32, Bluetooth e FreeRTOS** para controle de hardware em tempo real.
-
-### 🧬 GA Application
-Aplicação de **algoritmo genético em Rust** para otimização de funções matemáticas.
-
-### 🗂️ ALG2 FS SIM
-Simulador de sistema de arquivos em **C**, utilizando árvores, pilhas e gerenciamento manual de memória.
-
 ## 📫 Contato
 
 - ✉️ Email: justother94@gmail.com  
