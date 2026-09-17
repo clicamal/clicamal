@@ -3,9 +3,11 @@
 💻 Desenvolvedor de Software | Full Stack
 🎓 Estudante de Engenharia de Computação na UFMT
 
-Desenvolvedor com experiência em aplicações web, APIs, automação de processos e integração de sistemas. Trabalho principalmente com PHP, Laravel, JavaScript e TypeScript, além de ferramentas como Moodle, n8n e Bash.
+Desenvolvedor de Software com experiência em aplicações web, APIs, automação de processos e integração de sistemas. Trabalho principalmente com **PHP, Laravel, JavaScript e TypeScript**, além de tecnologias e ferramentas como **React, Vue.js, Moodle, n8n, Docker e Linux**.
 
-Gosto de entender como os sistemas funcionam por baixo dos panos e transformar problemas em soluções simples, automatizadas e bem estruturadas. Também mantenho projetos próprios para experimentar tecnologias, estudar arquitetura de software e colocar novos conhecimentos em prática.
+Tenho experiência profissional no desenvolvimento de sistemas para clientes reais, desde a construção de APIs e regras de negócio até integrações, automações e manutenção de aplicações em produção.
+
+Gosto de entender como os sistemas funcionam por baixo dos panos e transformar problemas em soluções simples, automatizadas e bem estruturadas. Também mantenho projetos próprios para experimentar tecnologias, estudar arquitetura e segurança de software e colocar novos conhecimentos em prática.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -26,6 +28,7 @@ Gosto de entender como os sistemas funcionam por baixo dos panos e transformar p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 
 ### Banco de Dados e Ferramentas
@@ -36,7 +39,7 @@ Gosto de entender como os sistemas funcionam por baixo dos panos e transformar p
 ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge\&logo=moodle\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
-### Sistemas e Automação
+### Sistemas e Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -44,15 +47,22 @@ Gosto de entender como os sistemas funcionam por baixo dos panos e transformar p
 ## 🔧 O que gosto de desenvolver
 
 * Aplicações web e APIs
-* Sistemas backend e integrações
+* Sistemas backend e Full Stack
+* Integrações entre sistemas e serviços
 * Automação de processos
-* Integrações entre diferentes sistemas e serviços
+* Autenticação e segurança
 * Ferramentas e projetos experimentais
 * Sistemas que envolvem software e hardware
+* Projetos para estudar arquitetura e novas tecnologias
 
-## 📌 Projetos
+## 📚 Atualmente estudando
 
-Alguns dos projetos que desenvolvo estão disponíveis nos meus repositórios. Procuro utilizar esses projetos não apenas como portfólio, mas também como laboratório para estudar novas tecnologias, arquitetura, segurança e desenvolvimento de software.
+* Arquitetura de software
+* Segurança e autenticação
+* Protocolos e identidade digital
+* Desenvolvimento Full Stack
+* Sistemas embarcados
+* Integração entre software e hardware
 
 ## 📫 Contato
 
